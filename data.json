@@ -1,130 +1,130 @@
-"schedule_events":[
+"scheduleEvents": [
   {
-    "start_time": "9:00 AM",
-    "end_time": "10:00 AM",
-    "event_type": "Ceremony",
-    "event_name": "Opening Ceremony",
-    "Host": "",
-    "event_description": ""
+    "startTime": "9:00 AM",
+    "endTime": "10:00 AM",
+    "eventType": "Ceremony",
+    "eventName": "Opening Ceremony",
+    "host": "",
+    "eventDescription": ""
   },
   {
-    "start_time": "10:00 AM",
-    "end_time": "11:00 AM",
-    "event_type": "Workshop",
-    "event_name": "Owning Your Personal Brand",
-    "Host": "Travelers - Tara Spain & Jhavier Leslie",
-    "event_description": ""
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "eventType": "Workshop",
+    "eventName": "Owning Your Personal Brand",
+    "host": "Travelers - Tara Spain & Jhavier Leslie",
+    "eventDescription": ""
   },
   {
-    "start_time": "10:00 AM",
-    "end_time": "11:00 AM",
-    "event_type": "Panel",
-    "event_name": "UMass Alumni Panel",
-    "Host": "Katie House, Katrina Greene, Sarah Manlove, Alicia Bochnak",
-    "event_description": ""
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "eventType": "Panel",
+    "eventName": "UMass Alumni Panel",
+    "host": "Katie House, Katrina Greene, Sarah Manlove, Alicia Bochnak",
+    "eventDescription": ""
   },
   {
-    "start_time": "10:00 AM",
-    "end_time": "11:00 AM",
-    "event_type": "Workshop",
-    "event_name": "Intro to SQL Injection",
-    "Host": "Sebastien Christensen",
-    "event_description": ""
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "eventType": "Workshop",
+    "eventName": "Intro to SQL Injection",
+    "host": "Sebastien Christensen",
+    "eventDescription": ""
   },
   {
-    "start_time": "10:00 AM",
-    "end_time": "11:00 AM",
-    "event_type": "Workshop",
-    "event_name": "Establishing Your True Voice and Presence as A Young Professional",
-    "Host": "Tara Whitney",
-    "event_description": ""
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "eventType": "Workshop",
+    "eventName": "Establishing Your True Voice and Presence as A Young Professional",
+    "host": "Tara Whitney",
+    "eventDescription": ""
   },
   {
-    "start_time": "11:00 AM",
-    "end_time": "12:00 PM",
-    "event_type": "Workshop",
-    "event_name": "Building Your First iOS App",
-    "Host": "Sarah Manlove",
-    "event_description": ""
+    "startTime": "11:00 AM",
+    "endTime": "12:00 PM",
+    "eventType": "Workshop",
+    "eventName": "Building Your First iOS App",
+    "host": "Sarah Manlove",
+    "eventDescription": ""
   },
   {
-    "start_time": "11:00 AM",
-    "end_time": "12:00 PM",
-    "event_type": "Workshop",
-    "event_name": "Google Cloud: Introduction to Qwiklabs",
-    "Host": "Google Cloud Platform",
-    "event_description": ""
+    "startTime": "11:00 AM",
+    "endTime": "12:00 PM",
+    "eventType": "Workshop",
+    "eventName": "Google Cloud: Introduction to Qwiklabs",
+    "host": "Google Cloud Platform",
+    "eventDescription": ""
   },
   {
-    "start_time": "11:00 AM",
-    "end_time": "12:00 PM",
-    "event_type": "Workshop",
-    "event_name": "Intro to Modeling in Python",
-    "Host": "MassMutual - Emily Dzwil & Quentin Dupupet",
-    "event_description": ""
+    "startTime": "11:00 AM",
+    "endTime": "12:00 PM",
+    "eventType": "Workshop",
+    "eventName": "Intro to Modeling in Python",
+    "host": "MassMutual - Emily Dzwil & Quentin Dupupet",
+    "eventDescription": ""
   },
   {
-    "start_time": "11:00 AM",
-    "end_time": "12:00 PM",
-    "event_type": "Workshop",
-    "event_name": "Nontechnical Skills in a Tech World (Being a Well-Balanced Engineer)",
-    "Host": "Liberty Mutual - Samantha Bonty",
-    "event_description": ""
+    "startTime": "11:00 AM",
+    "endTime": "12:00 PM",
+    "eventType": "Workshop",
+    "eventName": "Nontechnical Skills in a Tech World (Being a Well-Balanced Engineer)",
+    "host": "Liberty Mutual - Samantha Bonty",
+    "eventDescription": ""
   },
   {
-    "start_time": "12:00 PM",
-    "end_time": "1:00 PM",
-    "event_type": "Workshop",
-    "event_name": "Crush Your Coding Interview",
-    "Host": "Facebook - Pritish",
-    "event_description": ""
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "eventType": "Workshop",
+    "eventName": "Crush Your Coding Interview",
+    "host": "Facebook - Pritish",
+    "eventDescription": ""
   },
   {
-    "start_time": "12:00 PM",
-    "end_time": "1:00 PM",
-    "event_type": "Workshop",
-    "event_name": "Introduction to NLP: Techniques & Applications",
-    "Host": "MassMutual - Trang Tran",
-    "event_description": ""
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "eventType": "Workshop",
+    "eventName": "Introduction to NLP: Techniques & Applications",
+    "host": "MassMutual - Trang Tran",
+    "eventDescription": ""
   },
   {
-    "start_time": "12:00 PM",
-    "end_time": "1:00 PM",
-    "event_type": "Panel",
-    "event_name": "Women and Marginalized Communities in the Workforce",
-    "Host": "Victoria Okoro, HackHer413 Head of Diversity & Inclusion",
-    "event_description": ""
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "eventType": "Panel",
+    "eventName": "Women and Marginalized Communities in the Workforce",
+    "host": "Victoria Okoro, HackHer413 Head of Diversity & Inclusion",
+    "eventDescription": ""
   },
   {
-    "start_time": "12:00 PM",
-    "end_time": "1:00 PM",
-    "event_type": "Workshop",
-    "event_name": "Let's get Interdisciplinary: The Intersection of Neuroscience and Technology",
-    "Host": "Chinmayi Balusu",
-    "event_description": ""
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "eventType": "Workshop",
+    "eventName": "Let's get Interdisciplinary: The Intersection of Neuroscience and Technology",
+    "host": "Chinmayi Balusu",
+    "eventDescription": ""
   },
   {
-    "start_time": "1:00 PM",
-    "end_time": "3:00 PM",
-    "event_type": "Career Fair",
-    "event_name": "Career Fair",
-    "Host": "",
-    "event_description": "Meet with talent recruiters and learn more about the company and open roles!"
+    "startTime": "1:00 PM",
+    "endTime": "3:00 PM",
+    "eventType": "Career Fair",
+    "eventName": "Career Fair",
+    "host": "",
+    "eventDescription": "Meet with talent recruiters and learn more about the company and open roles!"
   },
   {
-    "start_time": "3:00 PM",
-    "end_time": "4:00 PM",
-    "event_type": "Networking",
-    "event_name": "Coffee with Mentors",
-    "Host": "",
-    "event_description": "Grab some coffee/tea and chat with mentors about their background and how they started out in the tech world!"
+    "startTime": "3:00 PM",
+    "endTime": "4:00 PM",
+    "eventType": "Networking",
+    "eventName": "Coffee with Mentors",
+    "host": "",
+    "eventDescription": "Grab some coffee/tea and chat with mentors about their background and how they started out in the tech world!"
   },
   {
-    "start_time": "4:00 PM",
-    "end_time": "5:00 PM",
-    "event_type": "Ceremony",
-    "event_name": "Closing Ceremony",
-    "Host": "",
-    "event_description": ""
+    "startTime": "4:00 PM",
+    "endTime": "5:00 PM",
+    "eventType": "Ceremony",
+    "eventName": "Closing Ceremony",
+    "host": "",
+    "eventDescription": ""
   }
 ]
