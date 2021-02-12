@@ -1,0 +1,130 @@
+"scheduleEvents": [
+  {
+    "startTime": "9:00 AM",
+    "endTime": "10:00 AM",
+    "eventType": "Ceremony",
+    "eventName": "Opening Ceremony",
+    "host": "",
+    "eventDescription": ""
+  },
+  {
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "eventType": "Workshop",
+    "eventName": "Owning Your Personal Brand",
+    "host": "Travelers - Tara Spain & Jhavier Leslie",
+    "eventDescription": ""
+  },
+  {
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "eventType": "Panel",
+    "eventName": "UMass Alumni Panel",
+    "host": "Katie House, Katrina Greene, Sarah Manlove, Alicia Bochnak",
+    "eventDescription": ""
+  },
+  {
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "eventType": "Workshop",
+    "eventName": "Intro to SQL Injection",
+    "host": "Sebastien Christensen",
+    "eventDescription": ""
+  },
+  {
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "eventType": "Workshop",
+    "eventName": "Establishing Your True Voice and Presence as A Young Professional",
+    "host": "Tara Whitney",
+    "eventDescription": ""
+  },
+  {
+    "startTime": "11:00 AM",
+    "endTime": "12:00 PM",
+    "eventType": "Workshop",
+    "eventName": "Building Your First iOS App",
+    "host": "Sarah Manlove",
+    "eventDescription": ""
+  },
+  {
+    "startTime": "11:00 AM",
+    "endTime": "12:00 PM",
+    "eventType": "Workshop",
+    "eventName": "Google Cloud: Introduction to Qwiklabs",
+    "host": "Google Cloud Platform",
+    "eventDescription": ""
+  },
+  {
+    "startTime": "11:00 AM",
+    "endTime": "12:00 PM",
+    "eventType": "Workshop",
+    "eventName": "Intro to Modeling in Python",
+    "host": "MassMutual - Emily Dzwil & Quentin Dupupet",
+    "eventDescription": ""
+  },
+  {
+    "startTime": "11:00 AM",
+    "endTime": "12:00 PM",
+    "eventType": "Workshop",
+    "eventName": "Nontechnical Skills in a Tech World (Being a Well-Balanced Engineer)",
+    "host": "Liberty Mutual - Samantha Bonty",
+    "eventDescription": ""
+  },
+  {
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "eventType": "Workshop",
+    "eventName": "Crush Your Coding Interview",
+    "host": "Facebook - Pritish",
+    "eventDescription": ""
+  },
+  {
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "eventType": "Workshop",
+    "eventName": "Introduction to NLP: Techniques & Applications",
+    "host": "MassMutual - Trang Tran",
+    "eventDescription": ""
+  },
+  {
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "eventType": "Panel",
+    "eventName": "Women and Marginalized Communities in the Workforce",
+    "host": "Victoria Okoro, HackHer413 Head of Diversity & Inclusion",
+    "eventDescription": ""
+  },
+  {
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "eventType": "Workshop",
+    "eventName": "Let's get Interdisciplinary: The Intersection of Neuroscience and Technology",
+    "host": "Chinmayi Balusu",
+    "eventDescription": ""
+  },
+  {
+    "startTime": "1:00 PM",
+    "endTime": "3:00 PM",
+    "eventType": "Career Fair",
+    "eventName": "Career Fair",
+    "host": "",
+    "eventDescription": "Meet with talent recruiters and learn more about the company and open roles!"
+  },
+  {
+    "startTime": "3:00 PM",
+    "endTime": "4:00 PM",
+    "eventType": "Networking",
+    "eventName": "Coffee with Mentors",
+    "host": "",
+    "eventDescription": "Grab some coffee/tea and chat with mentors about their background and how they started out in the tech world!"
+  },
+  {
+    "startTime": "4:00 PM",
+    "endTime": "5:00 PM",
+    "eventType": "Ceremony",
+    "eventName": "Closing Ceremony",
+    "host": "",
+    "eventDescription": ""
+  }
+]
